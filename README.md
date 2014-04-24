@@ -2,7 +2,7 @@ GettingCleaningData
 ===================
 
 This is the repository of code for Getting and Cleaning Data Project from Coursera.
-It cotains the following files:
+It includes the following files:
 - run_analysis.R
 - codebook.md
 - tidydata.txt
