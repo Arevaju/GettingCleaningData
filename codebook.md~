@@ -1,4 +1,4 @@
-# this file describes the purpose of run_analysis.R and the output files produced by running said script.
+# This file describes the purpose of run_analysis.R script
 
 
 the file run_analysis.R takes the data from the UCIHAR Dataset and processes it (details below). The file needs to changed such that the "yourPath" variable specifices where the UCIHAR Dataset variables have been downloaded and uncompressed to. The path specification system is consistent with linux operating systems. 

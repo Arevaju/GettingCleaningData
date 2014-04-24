@@ -39,13 +39,3 @@ colnames(measureslab)[69]<-"ActivityDescription"
 tidydata <- ddply(measureslab, .(ActivityCode, ActivityDescription, Subject), numcolwise(mean))
 ## Write the final tidy dataset
 write.table(tidydata, file = "./tidydata.txt", sep="\t")
-
-
-
-
-
-
-
-
-
-
