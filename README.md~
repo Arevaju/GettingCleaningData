@@ -12,7 +12,7 @@ The "run_analysis.R" file contains the R code that can be used to achieve the fo
 2) Produce a new dataset, tidydata.txt, which contains only the average value of each of the variables for each subject. For details see the description in the codebook.md file.
 
 
-The data used to generate the files in this repository was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip on 2014 04 24. 
+The data used to generate the files in this repository was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip on 2014 04 15. 
 For detailed information about the data see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
